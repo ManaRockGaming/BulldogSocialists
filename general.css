@@ -69,7 +69,6 @@
 	/*#region PPTX SECTION*/
 		.pptxSection {margin: 0% 10%; padding: 1% 0px 1% 0px; }
 			.pptxSection table {border-collapse: collapse; border-style: hidden; vertical-align: top }
-			.pptxSection td {border: 20px solid #F0F5F8; }
 
 			.responsive-wrapper {
 				position: relative;
